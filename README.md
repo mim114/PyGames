@@ -1,3 +1,3 @@
 Mini games in python:
- Guess the number ............ consol
- Count training .............. consol
+ 1. Guess the number ............ consol
+ 2. Count training .............. consol
