@@ -1,1 +1,1 @@
-game
+Mini games in python.
